@@ -33,7 +33,7 @@ const Partner_offer = () => {
       <div ref={sliderRef} className="keen-slider w-full mx-auto overflow-hidden">
         <img src="/darazi/offer_1.png" className=" keen-slider__slide"></img>
         <img src="/darazi/offer_2.png" className=" keen-slider__slide"></img>
-        <img src="/darazi/offer_1.png" className=" keen-slider__slide"></img>
+        <img src="/darazi/offer_3.png" className=" keen-slider__slide"></img>
       </div>
 
       {/* Arrow Buttons */}
