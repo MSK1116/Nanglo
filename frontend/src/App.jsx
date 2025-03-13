@@ -11,6 +11,13 @@ function App() {
     Aos.refresh();
   }, []);
 
+  useEffect(() => {
+    console.log(window.innerWidth);
+    if (window.innerWidth < 700) {
+      alert("This prototype is not made for small screen size");
+    }
+  }, []);
+
   return (
     <>
       <Routes>

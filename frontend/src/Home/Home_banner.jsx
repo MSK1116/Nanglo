@@ -20,7 +20,7 @@ const Home_banner = () => {
         <div className="  w-full justify-center items-end mr-14 flex flex-col text-3xl uppercase ">
           <p data-aos="fade-left" data-aos-duration="1000" className=" text-sm text-emerald-600">
             A tool that changes how we
-          </p>{" "}
+          </p>
           <p className=" font-semibold" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="100">
             buy, sell and exchange eco products
           </p>
