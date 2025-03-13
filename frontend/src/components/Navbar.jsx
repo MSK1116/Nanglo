@@ -21,7 +21,9 @@ const Navbar = () => {
         </div>
 
         <div className="navbar-end">
-          <a className=" p-2 bg-red-600 rounded-lg hover:bg-red-700  cursor-pointer mr-3 text-gray-100">Demo on partner ecommerce</a>
+          <button onClick={() => navigate("/partner")} className=" p-2 bg-red-600 rounded-lg hover:bg-red-700  cursor-pointer mr-3 text-gray-100">
+            Demo on partner ecommerce
+          </button>
           <button className="  p-2 bg-emerald-600 rounded-lg hover:bg-emerald-700  cursor-pointer mr-3 text-gray-100">Demo of our own ecommerce</button>
         </div>
       </div>

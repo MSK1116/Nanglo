@@ -3,6 +3,7 @@ import { Route, Routes } from "react-router-dom";
 import Home from "./Home/Home";
 import Aos from "aos";
 import "aos/dist/aos.css";
+import Partner_Home from "./partner/Partner_Home";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -22,6 +23,7 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/partner" element={<Partner_Home />} />
       </Routes>
     </>
   );
