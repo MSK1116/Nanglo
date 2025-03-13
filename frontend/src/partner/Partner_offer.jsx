@@ -52,7 +52,7 @@ const Partner_offer = () => {
       {loaded && (
         <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 flex space-x-2">
           {[...Array(instanceRef.current?.slides.length || 0)].map((_, idx) => (
-            <button key={idx} className={`w-3 h-3 rounded-full ${currentSlide === idx ? "bg-gray-800" : "bg-gray-400"}`} onClick={() => instanceRef.current?.moveToIdx(idx)}></button>
+            <button key={idx} className={`w-3 h-3 rounded-full ${currentSlide === idx ? "bg-gray-200" : "bg-gray-400"}`} onClick={() => instanceRef.current?.moveToIdx(idx)}></button>
           ))}
         </div>
       )}
