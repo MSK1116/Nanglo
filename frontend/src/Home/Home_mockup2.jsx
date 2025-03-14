@@ -14,8 +14,13 @@ const Home_mockup2 = () => {
             <p data-aos="fade-right" data-aos-duration="1000" data-aos-delay="200" className=" text-3xl font-semibold">
               Easy to sell, Easy to buy
             </p>
-            <div data-aos="fade-up" data-aos-duration="1000" className=" max-w-fit mt-8 ">
-              <button className=" p-2  rounded-md text-white min-w-24  bg-emerald-600 hover:bg-emerald-700 transition-none duration-700 cursor-pointer">Read</button>
+            <div className=" flex space-x-4">
+              <div data-aos="fade-up" data-aos-duration="1000" className=" max-w-fit mt-10 ">
+                <button className=" p-2  rounded-md text-white min-w-24  bg-emerald-600 hover:bg-emerald-700 transition-none duration-700 cursor-pointer">Read</button>
+              </div>
+              <div data-aos="fade-up" data-aos-duration="1000" data-aos-offset="-5" className=" max-w-fit mt-10 ">
+                <button className=" p-2  rounded-md text-white min-w-24 bg-gray-400 hover:bg-gray-500  transition-none duration-700 cursor-pointer">Try it</button>
+              </div>
             </div>
           </div>
         </div>

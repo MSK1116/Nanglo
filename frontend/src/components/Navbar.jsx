@@ -21,10 +21,31 @@ const Navbar = () => {
         </div>
 
         <div className="navbar-end">
-          <button onClick={() => navigate("/partner")} className=" p-2 bg-red-600 rounded-lg hover:bg-red-700  cursor-pointer mr-3 text-gray-100">
-            Demo on partner ecommerce
-          </button>
-          <button className="  p-2 bg-emerald-600 rounded-lg hover:bg-emerald-700  cursor-pointer mr-3 text-gray-100">Demo of our own ecommerce</button>
+          <ul className="menu menu-horizontal px-1 mr-24">
+            <li>
+              <a>Social</a>
+            </li>
+            <li>
+              <a>Economy</a>
+            </li>
+
+            <li>
+              <a>About</a>
+            </li>
+            <li>
+              <details className=" min-w-fit w-full">
+                <summary>Shop</summary>
+                <ul className="bg-base-100 min-w-44 w-full  rounded-t-none p-2">
+                  <li>
+                    <a className=" text-xs">Nanglo shop</a>
+                  </li>
+                  <li>
+                    <a className=" text-xs">Partner e-commerce</a>
+                  </li>
+                </ul>
+              </details>
+            </li>
+          </ul>
         </div>
       </div>
     </>
