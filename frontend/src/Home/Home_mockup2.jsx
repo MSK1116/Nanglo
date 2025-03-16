@@ -31,7 +31,7 @@ const Home_mockup2 = () => {
             <div className="h-[46px] w-[3px] bg-gray-800 absolute -start-[17px] top-[178px] rounded-s-lg"></div>
             <div className="h-[64px] w-[3px] bg-gray-800 absolute -end-[17px] top-[142px] rounded-e-lg"></div>
             <div className="rounded-[2rem] overflow-hidden w-[272px] h-[522px] bg-white dark:bg-gray-800">
-              <img src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/hero/mockup-2-light.png" className=" w-[272px] h-[522px]" alt=""></img>
+              <img src="/shop/Demo_gif.gif" className=" w-[272px] h-[522px]" alt=""></img>
             </div>
           </div>
         </div>
