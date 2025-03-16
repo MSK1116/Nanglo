@@ -28,7 +28,7 @@ const Partner_offer = () => {
   }, [instanceRef]);
 
   return (
-    <section className="max-w-screen-2xl p-8 h-[90vh] w-full flex mt-24 relative ">
+    <section className="max-w-screen-2xl p-8 h-[90vh] w-full flex mt-24 relative bg-gray-100 ">
       {/* Slider Container */}
       <div ref={sliderRef} className="keen-slider w-full mx-auto overflow-hidden">
         <img src="/darazi/offer_1.png" className=" keen-slider__slide"></img>
