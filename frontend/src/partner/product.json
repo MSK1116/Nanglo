@@ -4,7 +4,7 @@
     "name": "900ml Sports Bottle With Time Scale Outdoor Gradient Solid Color Sports Bottle Portable Fitness Motivational Straw Mug Bpa Free",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "299",
-    "main price": "800 -63%",
+    "mainPrice": "800 -63%",
     "rating": "3.8",
     "brand": "No Brand",
     "alternative": [
@@ -12,7 +12,7 @@
         "name": "",
         "imageLink": "/plasticImg/id_2.webp",
         "price": "70",
-        "main price": "150-34%",
+        "mainPrice": "150-34%",
         "rating": "4.0",
         "brand": "No Brand"
       }
@@ -23,7 +23,7 @@
     "name": "6Pcs Colourful Plastic Spoons Set",
     "imageLink": "/plasticImg/id_2.webp",
     "price": "70",
-    "main price": "150-34%",
+    "mainPrice": "150-34%",
     "rating": "4.0",
     "brand": "No Brand",
     "alternative": [
@@ -31,7 +31,7 @@
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
         "brand": ""
       }
     ]
@@ -41,32 +41,30 @@
     "name": "Plastic Disposable plate 12 inch",
     "imageLink": "/plasticImg/id_3.webp",
     "price": "250",
-    "main price": "",
+    "mainPrice": "",
     "rating": "2.2",
     "brand": "No brand",
-    "alternative": [
-      {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "main price": "",
-        "brand": ""
-      }
-    ]
+    "alternative": {
+      "name": "",
+      "imageLink": "/plasticImg/id_1.webp",
+      "price": "",
+      "mainPrice": "",
+      "brand": ""
+    }
   },
   {
     "id": "4",
     "name": "Exclusive Plastic Beverage Party Cup 16 OZ (480ml)",
     "imageLink": "/plasticImg/id_4.webp",
     "price": "275",
-    "main price": "",
+    "mainPrice": "",
     "brand": "No brand",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
         "brand": ""
       }
     ]
@@ -76,14 +74,14 @@
     "name": "Bath Sponge Round Loofah Pebble",
     "imageLink": "/plasticImg/id_5.webp",
     "price": "69",
-    "main price": "199-65%",
+    "mainPrice": "199-65%",
     "brand": "No brand",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -94,14 +92,14 @@
     "name": "Yoga Meditation Mat For Unisex 6mm Thick",
     "imageLink": "/plasticImg/id_6.webp",
     "price": "589",
-    "main price": "1099-46%",
+    "mainPrice": "1099-46%",
     "brand": "No brand",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -112,14 +110,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -130,14 +128,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -148,14 +146,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -166,14 +164,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -184,14 +182,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -202,14 +200,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -220,14 +218,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -238,14 +236,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -256,14 +254,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -274,14 +272,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -292,14 +290,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -310,14 +308,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -328,14 +326,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }
@@ -346,14 +344,14 @@
     "name": "",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "",
-    "main price": "",
+    "mainPrice": "",
     "brand": "",
     "alternative": [
       {
         "name": "",
         "imageLink": "/plasticImg/id_1.webp",
         "price": "",
-        "main price": "",
+        "mainPrice": "",
 
         "brand": ""
       }

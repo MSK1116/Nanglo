@@ -1,9 +1,11 @@
 import React from "react";
 import Getproduct from "./product.json";
+import { useNavigate } from "react-router-dom";
 
 const Partner_Flashsale = () => {
   const numberOfProductToDisplay = Getproduct.slice(0, 12);
   const product = numberOfProductToDisplay.sort(() => Math.random() - 0.12);
+  const navigate = useNavigate();
 
   return (
     <>
@@ -18,7 +20,7 @@ const Partner_Flashsale = () => {
           </div>
           <div className=" grid grid-cols-6 gap-x-3 gap-y-3 mt-4">
             {product.map((product) => (
-              <div key={product.id} className="w-auto h-80 hover:shadow-lg cursor-pointer">
+              <div onClick={() => navigate(`/products/${product.id}/${product.name}`, { state: product })} key={product.id} className="w-auto h-80 hover:shadow-lg cursor-pointer">
                 <div className=" h-[75%] w-full p-2 ">
                   <img className=" w-full h-full object-cover " src={product.imageLink} alt={product.name}></img>
                 </div>
