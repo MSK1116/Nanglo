@@ -3,7 +3,7 @@ import Getproduct from "./product.json";
 import { useNavigate } from "react-router-dom";
 
 const Partner_Flashsale = () => {
-  const numberOfProductToDisplay = Getproduct.slice(0, 12);
+  const numberOfProductToDisplay = Getproduct.slice(0, 20);
   const product = numberOfProductToDisplay.sort(() => Math.random() - 0.12);
   const navigate = useNavigate();
 

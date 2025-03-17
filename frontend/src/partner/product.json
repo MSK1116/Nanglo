@@ -4,17 +4,17 @@
     "name": "900ml Sports Bottle With Time Scale Outdoor Gradient Solid Color Sports Bottle Portable Fitness Motivational Straw Mug Bpa Free",
     "imageLink": "/plasticImg/id_1.webp",
     "price": "299",
-    "mainPrice": "800 -63%",
+    "main price": "800 -63%",
     "rating": "3.8",
     "brand": "No Brand",
     "alternative": [
       {
-        "name": " Bamboo leak proof bottle",
+        "name": "Copper Water Bottle 1L",
         "imageLink": "/plasticImg/id_1.1.webp",
-        "price": "70",
-        "mainPrice": "150-34%",
-        "rating": "4.0",
-        "brand": "No Brand"
+        "price": "1200",
+        "main price": "1800 -33%",
+        "rating": "4.5",
+        "brand": "Local Artisan"
       }
     ]
   },
@@ -23,16 +23,17 @@
     "name": "6Pcs Colourful Plastic Spoons Set",
     "imageLink": "/plasticImg/id_2.webp",
     "price": "70",
-    "mainPrice": "150-34%",
+    "main price": "150-34%",
     "rating": "4.0",
     "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-        "brand": ""
+        "name": "Bamboo Spoon Set (6 Pcs)",
+        "imageLink": "/plasticImg/id_2.1.jpg",
+        "price": "250",
+        "main price": "500 -50%",
+        "rating": "4.7",
+        "brand": "Handmade"
       }
     ]
   },
@@ -41,16 +42,17 @@
     "name": "Plastic Disposable plate 12 inch",
     "imageLink": "/plasticImg/id_3.webp",
     "price": "250",
-    "mainPrice": "",
+    "main price": "",
     "rating": "2.2",
-    "brand": "No brand",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-        "brand": ""
+        "name": "Areca Leaf Plates (Pack of 10)",
+        "imageLink": "/plasticImg/id_3.1.jpg",
+        "price": "400",
+        "main price": "700 -43%",
+        "rating": "4.6",
+        "brand": "Eco Nepal"
       }
     ]
   },
@@ -59,15 +61,16 @@
     "name": "Exclusive Plastic Beverage Party Cup 16 OZ (480ml)",
     "imageLink": "/plasticImg/id_4.webp",
     "price": "275",
-    "mainPrice": "",
-    "brand": "No brand",
+    "main price": "",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-        "brand": ""
+        "name": "Clay Kulhad Cups (Pack of 6)",
+        "imageLink": "/plasticImg/id_4.1.jpg",
+        "price": "300",
+        "main price": "500 -40%",
+        "rating": "4.8",
+        "brand": "Local Pottery"
       }
     ]
   },
@@ -76,16 +79,16 @@
     "name": "Bath Sponge Round Loofah Pebble",
     "imageLink": "/plasticImg/id_5.webp",
     "price": "69",
-    "mainPrice": "199-65%",
-    "brand": "No brand",
+    "main price": "199-65%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Natural Loofah Sponge",
+        "imageLink": "/plasticImg/id_5.1.webp",
+        "price": "150",
+        "main price": "250 -40%",
+        "rating": "4.7",
+        "brand": "Organic Care"
       }
     ]
   },
@@ -94,268 +97,196 @@
     "name": "Yoga Meditation Mat For Unisex 6mm Thick",
     "imageLink": "/plasticImg/id_6.webp",
     "price": "589",
-    "mainPrice": "1099-46%",
-    "brand": "No brand",
+    "main price": "1099-46%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Cotton Handwoven Yoga Mat",
+        "imageLink": "/plasticImg/id_6.1.jpg",
+        "price": "1500",
+        "main price": "2200 -32%",
+        "rating": "4.6",
+        "brand": "Handloom Nepal"
       }
     ]
   },
   {
     "id": "7",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
+    "name": "Plastic Storage Box With Lid (Large Size)",
+    "imageLink": "/plasticImg/id_7.jpg",
+    "price": "799",
+    "main price": "1299-38%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Bamboo Storage Basket",
+        "imageLink": "/plasticImg/id_7.1.webp",
+        "price": "900",
+        "main price": "1400 -36%",
+        "rating": "4.5",
+        "brand": "Handwoven"
       }
     ]
   },
   {
     "id": "8",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
+    "name": "Transparent Plastic Food Containers - Set of 5",
+    "imageLink": "/plasticImg/id_8.webp",
+    "price": "499",
+    "main price": "899-44%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Glass Food Storage Jars (Set of 3)",
+        "imageLink": "/plasticImg/id_8.1.jpg",
+        "price": "850",
+        "main price": "1200 -29%",
+        "rating": "4.6",
+        "brand": "Traditional Glassware"
       }
     ]
   },
   {
     "id": "9",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
+    "name": "Plastic Hanging Hooks Set (Pack of 12)",
+    "imageLink": "/plasticImg/id_9.jpg",
+    "price": "120",
+    "main price": "250-52%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Wooden Wall Hooks (Pack of 6)",
+        "imageLink": "/plasticImg/id_9.1.jpg",
+        "price": "600",
+        "main price": "900 -33%",
+        "rating": "4.5",
+        "brand": "Handcrafted"
       }
     ]
   },
   {
     "id": "10",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
+    "name": "Plastic Dustbin with Swing Lid (10L)",
+    "imageLink": "/plasticImg/id_10.jpg",
+    "price": "349",
+    "main price": "699-50%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Bamboo Waste Basket",
+        "imageLink": "/plasticImg/id_10.1.jpg",
+        "price": "750",
+        "main price": "1200 -38%",
+        "rating": "4.4",
+        "brand": "Eco-Friendly"
       }
     ]
   },
   {
     "id": "11",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
+    "name": "Plastic Laundry Basket With Handles",
+    "imageLink": "/plasticImg/id_11.webp",
+    "price": "599",
+    "main price": "999-40%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Handwoven Cane Laundry Basket",
+        "imageLink": "/plasticImg/id_11.1.webp",
+        "price": "1100",
+        "main price": "1600 -31%",
+        "rating": "4.6",
+        "brand": "Handmade"
       }
     ]
   },
   {
     "id": "12",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
+    "name": "Plastic Water Dispenser Bottle 20L",
+    "imageLink": "/plasticImg/id_12.avif",
+    "price": "1099",
+    "main price": "1799-39%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Stainless Steel Water Dispenser (20L)",
+        "imageLink": "/plasticImg/id_12.1.jpg",
+        "price": "2500",
+        "main price": "3500 -28%",
+        "rating": "4.8",
+        "brand": "Steelcraft"
       }
     ]
   },
   {
     "id": "13",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
+    "name": "Plastic Shoe Rack (4-Tier)",
+    "imageLink": "/plasticImg/id_13.jpg",
+    "price": "899",
+    "main price": "1599-44%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Wooden Shoe Rack (4-Tier)",
+        "imageLink": "/plasticImg/id_13.1.jpg",
+        "price": "2200",
+        "main price": "3200 -31%",
+        "rating": "4.7",
+        "brand": "Handmade"
       }
     ]
   },
   {
     "id": "14",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
+    "name": "Plastic Egg Storage Box (Capacity: 30 Eggs)",
+    "imageLink": "/plasticImg/id_14.webp",
+    "price": "250",
+    "main price": "499-50%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Bamboo Egg Tray (Holds 30 Eggs)",
+        "imageLink": "/plasticImg/id_14.1.jpg",
+        "price": "600",
+        "main price": "900 -33%",
+        "rating": "4.5",
+        "brand": "Nanglo"
       }
     ]
   },
   {
     "id": "15",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
+    "name": "Plastic Measuring Cups Set (6 Pieces)",
+    "imageLink": "/plasticImg/id_15.jpg",
+    "price": "150",
+    "main price": "299-50%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Stainless Steel Measuring Cups Set (6 Pcs)",
+        "imageLink": "/plasticImg/id_15.1.jpg",
+        "price": "700",
+        "main price": "1200 -42%",
+        "rating": "4.7",
+        "brand": "Nanglo"
       }
     ]
   },
   {
     "id": "16",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
+    "name": "Plastic Dish Drainer Rack With Cutlery Holder",
+    "imageLink": "/plasticImg/id_16.webp",
+    "price": "499",
+    "main price": "899-44%",
+    "brand": "No Brand",
     "alternative": [
       {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
-      }
-    ]
-  },
-  {
-    "id": "17",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
-    "alternative": [
-      {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
-      }
-    ]
-  },
-  {
-    "id": "18",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
-    "alternative": [
-      {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
-      }
-    ]
-  },
-  {
-    "id": "19",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
-    "alternative": [
-      {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
-      }
-    ]
-  },
-  {
-    "id": "20",
-    "name": "",
-    "imageLink": "/plasticImg/id_1.webp",
-    "price": "",
-    "mainPrice": "",
-    "brand": "",
-    "alternative": [
-      {
-        "name": "",
-        "imageLink": "/plasticImg/id_1.webp",
-        "price": "",
-        "mainPrice": "",
-
-        "brand": ""
+        "name": "Bamboo Dish Drainer Rack",
+        "imageLink": "/plasticImg/id_16.1.webp",
+        "price": "1200",
+        "main price": "1800 -33%",
+        "rating": "4.6",
+        "brand": "EcoWare"
       }
     ]
   }
