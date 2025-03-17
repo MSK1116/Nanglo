@@ -4,9 +4,20 @@ import React, { use, useEffect } from "react";
 const Home_banner = () => {
   useEffect(() => {
     Aos.refresh();
+
+    document.getElementById("my_modal_2").showModal();
   }, []);
   return (
     <>
+      <dialog id="my_modal_2" className="modal">
+        <div className="modal-box">
+          <h3 className="font-bold text-lg">Caution!</h3>
+          <p className="py-4">This website is underdevelopment</p>
+        </div>
+        <form method="dialog" className="modal-backdrop">
+          <button>close</button>
+        </form>
+      </dialog>
       <section className=" relative flex flex-row max-w-screen-2xl h-[85vh] overflow-hidden ">
         <div data-aos="zoom-in-up" data-aos-duration="1000" className="">
           <span className=" opacity-15 absolute bottom-0   size-72 -left-20 bg-cover bg-no-repeat bg-[url(/BambooTree.png)]"></span>
