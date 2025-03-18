@@ -38,6 +38,7 @@ const Partner_read = () => {
               <video
                 onCanPlay={() => setIsLoading(false)}
                 onLoadedData={() => setIsLoading(false)}
+                onLoad={() => setIsLoading(true)}
                 onWaiting={() => setIsLoading(true)}
                 onTimeUpdate={updateProgress}
                 ref={videoRef}
