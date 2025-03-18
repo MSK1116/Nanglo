@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import Partner_navbar from "./Partner_navbar";
 import { useLocation, useNavigate, useParams } from "react-router-dom";
 import Getproduct from "./product.json";
+import ecoProduct from "./product2.json";
 import { CiStar } from "react-icons/ci";
 import { FaStar } from "react-icons/fa";
 import { IoLocationOutline } from "react-icons/io5";
@@ -21,14 +22,18 @@ const Partner_product_view = () => {
     if (product) {
       setAlternativePro(product.alternative ? product.alternative[0] : null);
       setMainProduct(product);
-      document.title = product.name + " | Darazi";
     } else {
-      const pullProduct = Getproduct.find((Getproduct) => Getproduct.id == title);
-      setAlternativePro(pullProduct.alternative ? pullProduct.alternative[0] : null);
-      setMainProduct(pullProduct);
-      document.title = pullProduct.name + " | Darazi";
+      const pullProduct = Getproduct.find((Getproduct) => Getproduct.name == title);
+      const pullEcoProduct = ecoProduct.find((ecoProduct) => ecoProduct.name == title);
+
+      setAlternativePro(pullProduct ? pullProduct.alternative[0] : null);
+      setMainProduct(pullProduct ? pullProduct : pullEcoProduct);
     }
   }, [id, product]);
+
+  useEffect(() => {
+    document.title = mainProduct.name;
+  }, [mainProduct]);
 
   return (
     <>
