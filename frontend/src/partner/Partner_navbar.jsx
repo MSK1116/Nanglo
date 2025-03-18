@@ -5,7 +5,7 @@ import { CiSearch } from "react-icons/ci";
 const Partner_navbar = () => {
   return (
     <>
-      <div className=" fixed top-0 max-h-[7.5rem] h-full z-[9999] right-0 left-0 flex flex-col bg-[#f85606] ">
+      <div className=" cursor-not-allowed fixed top-0 max-h-[7.5rem] h-full z-[9999] right-0 left-0 flex flex-col bg-[#f85606] ">
         <div className=" uppercase text-white text-xs space-x-9 mt-1 flex w-full justify-end pr-24">
           <span className=" cursor-pointer">Save more on App</span>
           <span className=" cursor-pointer">Become a seller</span>

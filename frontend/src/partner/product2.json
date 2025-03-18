@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Copper Water Bottle 1L",
+    "imageLink": "/plasticImg/id_1.1.webp",
+    "price": "1200",
+    "main price": "1800 -33%",
+    "rating": "4.5",
+    "brand": "Local Artisan"
+  },
+  {
+    "name": "Bamboo Spoon Set (6 Pcs)",
+    "imageLink": "/plasticImg/id_2.1.jpg",
+    "price": "250",
+    "main price": "500 -50%",
+    "rating": "4.7",
+    "brand": "Handmade"
+  },
+  {
+    "name": "Areca Leaf Plates (Pack of 10)",
+    "imageLink": "/plasticImg/id_3.1.jpg",
+    "price": "400",
+    "main price": "700 -43%",
+    "rating": "4.6",
+    "brand": "Eco Nepal"
+  },
+  {
+    "name": "Clay Kulhad Cups (Pack of 6)",
+    "imageLink": "/plasticImg/id_4.1.jpg",
+    "price": "300",
+    "main price": "500 -40%",
+    "rating": "4.8",
+    "brand": "Local Pottery"
+  },
+  {
+    "name": "Natural Loofah Sponge",
+    "imageLink": "/plasticImg/id_5.1.webp",
+    "price": "150",
+    "main price": "250 -40%",
+    "rating": "4.7",
+    "brand": "Organic Care"
+  },
+  {
+    "name": "Cotton Handwoven Yoga Mat",
+    "imageLink": "/plasticImg/id_6.1.jpg",
+    "price": "1500",
+    "main price": "2200 -32%",
+    "rating": "4.6",
+    "brand": "Handloom Nepal"
+  },
+  {
+    "name": "Bamboo Storage Basket",
+    "imageLink": "/plasticImg/id_7.1.webp",
+    "price": "900",
+    "main price": "1400 -36%",
+    "rating": "4.5",
+    "brand": "Handwoven"
+  },
+  {
+    "name": "Glass Food Storage Jars (Set of 3)",
+    "imageLink": "/plasticImg/id_8.1.jpg",
+    "price": "850",
+    "main price": "1200 -29%",
+    "rating": "4.6",
+    "brand": "Traditional Glassware"
+  },
+  {
+    "name": "Wooden Wall Hooks (Pack of 6)",
+    "imageLink": "/plasticImg/id_9.1.jpg",
+    "price": "600",
+    "main price": "900 -33%",
+    "rating": "4.5",
+    "brand": "Handcrafted"
+  },
+  {
+    "name": "Bamboo Waste Basket",
+    "imageLink": "/plasticImg/id_10.1.jpg",
+    "price": "750",
+    "main price": "1200 -38%",
+    "rating": "4.4",
+    "brand": "Eco-Friendly"
+  },
+  {
+    "name": "Handwoven Cane Laundry Basket",
+    "imageLink": "/plasticImg/id_11.1.webp",
+    "price": "1100",
+    "main price": "1600 -31%",
+    "rating": "4.6",
+    "brand": "Handmade"
+  },
+  {
+    "name": "Stainless Steel Water Dispenser (20L)",
+    "imageLink": "/plasticImg/id_12.1.jpg",
+    "price": "2500",
+    "main price": "3500 -28%",
+    "rating": "4.8",
+    "brand": "Steelcraft"
+  },
+  {
+    "name": "Wooden Shoe Rack (4-Tier)",
+    "imageLink": "/plasticImg/id_13.1.jpg",
+    "price": "2200",
+    "main price": "3200 -31%",
+    "rating": "4.7",
+    "brand": "Handmade"
+  },
+  {
+    "name": "Bamboo Egg Tray (Holds 30 Eggs)",
+    "imageLink": "/plasticImg/id_14.1.jpg",
+    "price": "600",
+    "main price": "900 -33%",
+    "rating": "4.5",
+    "brand": "Nanglo"
+  },
+  {
+    "name": "Stainless Steel Measuring Cups Set (6 Pcs)",
+    "imageLink": "/plasticImg/id_15.1.jpg",
+    "price": "700",
+    "main price": "1200 -42%",
+    "rating": "4.7",
+    "brand": "Nanglo"
+  },
+  {
+    "name": "Bamboo Dish Drainer Rack",
+    "imageLink": "/plasticImg/id_16.1.webp",
+    "price": "1200",
+    "main price": "1800 -33%",
+    "rating": "4.6",
+    "brand": "EcoWare"
+  }
+]
