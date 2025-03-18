@@ -37,9 +37,6 @@ const Navbar = () => {
                 <summary>Shop</summary>
                 <ul className="bg-base-100 min-w-44 w-full  rounded-t-none p-2">
                   <li>
-                    <a className=" text-xs">Nanglo shop</a>
-                  </li>
-                  <li>
                     <a className=" text-xs">Partner e-commerce</a>
                   </li>
                 </ul>

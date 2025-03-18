@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 
 const Home_mockup = () => {
   const navigate = useNavigate();
+
   return (
     <>
       <div className=" mt-14 p-8 max-w-screen-2xl h-[90vh]  flex flex-row overflow-hidden  ">
@@ -27,7 +28,9 @@ const Home_mockup = () => {
           </h1>
           <div className=" flex space-x-4">
             <div data-aos="fade-up" data-aos-duration="1000" className=" max-w-fit mt-10 ">
-              <button className=" p-2  rounded-md text-white min-w-24  bg-emerald-600 hover:bg-emerald-700 transition-none duration-700 cursor-pointer">Read</button>
+              <button onClick={() => navigate("/partner/read")} className=" p-2  rounded-md text-white min-w-24  bg-emerald-600 hover:bg-emerald-700 transition-none duration-700 cursor-pointer">
+                Read
+              </button>
             </div>
             <div onClick={() => navigate("/partner")} data-aos="fade-up" data-aos-duration="1000" data-aos-offset="-5" className=" max-w-fit mt-10 ">
               <button className=" p-2  rounded-md text-white min-w-24 bg-gray-400 hover:bg-gray-500  transition-none duration-700 cursor-pointer">Try it</button>

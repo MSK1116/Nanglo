@@ -5,9 +5,11 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import Partner_Home from "./partner/Partner_Home";
 import Partner_product_view from "./partner/Partner_product_view";
+import Partner_read from "./partner/Partner_read";
 
 function App() {
   const [count, setCount] = useState(0);
+
   useEffect(() => {
     Aos.init();
     Aos.refresh();
@@ -25,6 +27,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/partner" element={<Partner_Home />} />
+        <Route path="/partner/read" element={<Partner_read />} />
         <Route path="/products/:id/:title" element={<Partner_product_view />} />
       </Routes>
     </>
