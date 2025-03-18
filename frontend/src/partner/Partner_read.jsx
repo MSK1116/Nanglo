@@ -36,7 +36,7 @@ const Partner_read = () => {
           <div className="absolute bottom-2 left-10">
             <button onClick={togglePlayPause} className={` overflow-hidden relative  px-4 py-2 opacity-80 bg-gray-300 text-gray-50 rounded-md `}>
               {!isPlaying ? <FaPlay /> : <FaPause />}
-              <div className="h-[2px] absolute bottom-0 left-0 bg-emerald-600 rounded-lg " style={{ width: `${vidProgress}%` }}></div>
+              <div className={` ${!isPlaying ? " bg-red-600" : "bg-emerald-600"} h-[2px] absolute bottom-0 left-0  rounded-lg "`} style={{ width: `${vidProgress}%` }}></div>
             </button>
           </div>
         </div>
