@@ -62,7 +62,7 @@ const Partner_read = () => {
             </div>
           )}
 
-          <video ref={videoRef} className=" w-full h-full object-cover" autoPlay loop muted playsInline>
+          <video onTimeUpdate={updateProgress} ref={videoRef} className=" w-full h-full object-cover" autoPlay loop muted playsInline>
             <source src="/Video/Short_vid.mp4" type="video/mp4"></source>
             Your browser does not support the video tag.
           </video>
