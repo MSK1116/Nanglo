@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import { FaPlay } from "react-icons/fa";
@@ -22,6 +22,31 @@ const Partner_read = () => {
     }
   };
 
+  useEffect(() => {
+    const video = videoRef.current;
+
+    const handlePlay = () => setIsLoading(false);
+    const handleWaiting = () => setIsLoading(true);
+    const handleStalled = () => setIsLoading(true);
+    const handleCanPlayThrough = () => setIsLoading(false);
+
+    if (video) {
+      video.addEventListener("play", handlePlay);
+      video.addEventListener("waiting", handleWaiting);
+      video.addEventListener("stalled", handleStalled);
+      video.addEventListener("canplaythrough", handleCanPlayThrough);
+    }
+
+    return () => {
+      if (video) {
+        video.removeEventListener("play", handlePlay);
+        video.removeEventListener("waiting", handleWaiting);
+        video.removeEventListener("stalled", handleStalled);
+        video.removeEventListener("canplaythrough", handleCanPlayThrough);
+      }
+    };
+  }, []);
+
   const updateProgress = () => {
     const percentage = (videoRef.current.currentTime / videoRef.current.duration) * 100;
     setVidProgress(percentage);
@@ -37,18 +62,7 @@ const Partner_read = () => {
             </div>
           )}
 
-          <video
-            onCanPlay={() => setIsLoading(false)}
-            onLoadedData={() => setIsLoading(false)}
-            onLoad={() => setIsLoading(true)}
-            onWaiting={() => setIsLoading(true)}
-            onTimeUpdate={updateProgress}
-            ref={videoRef}
-            className=" w-full h-full object-cover"
-            autoPlay
-            loop
-            muted
-            playsInline>
+          <video ref={videoRef} className=" w-full h-full object-cover" autoPlay loop muted playsInline>
             <source src="/Video/Short_vid.mp4" type="video/mp4"></source>
             Your browser does not support the video tag.
           </video>
